@@ -1,2 +1,2 @@
 # kaggle_training
-A repo documenting my training on kaggle website
+A repo documenting my learning on kaggle website
